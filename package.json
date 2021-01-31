@@ -52,7 +52,7 @@
     "@atlaskit/media-editor": "38.1.4",
     "@atlaskit/smart-card": "14.6.1",
     "@material-ui/core": "3.9.4",
-    "@material-ui/styles": "4.10.0",
+    "@material-ui/styles": "4.11.3",
     "cozy-bar": "7.7.8",
     "cozy-client": "16.10.2",
     "cozy-device-helper": "1.8.0",
